@@ -1,2 +1,2 @@
-# training-torpedo-Workshop
+# c++ Workshop
 Training torpedo Task 2 --> Workshop by C++
